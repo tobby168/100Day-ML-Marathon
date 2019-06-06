@@ -22,7 +22,7 @@ Github這邊主要我就是放上每日的作業，詳細的心得之後會再�
 ### 每日作業
 （使用的是運行在Jupyter notebook上的.ipynb檔。）
 
-- 資料清理數據前處裡
+- 一、資料清理數據前處裡
   - [Day1 資料介紹與評估資料](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_001_HW.ipynb)
   - [Day2 EDA-1、讀取資料](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_002_HW.ipynb)
   - [Day3 新建一個dataframe、讀取非csv資料](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_003-2_HW.ipynb)
@@ -39,7 +39,11 @@ Github這邊主要我就是放上每日的作業，詳細的心得之後會再�
   - [Day14 Subplots](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_014_HW.ipynb)
   - [Day15 Heatmap & grid-plot](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_015_HW.ipynb)
   - [Day16 模型初體驗](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_016_HW.ipynb)
-- 資料科學特徵工程技術
+
+第一部分的心得：[機器學習馬拉松（一） — EDA、標準化、相關係數、KDE、離散化](https://pse.is/GHYBF)
+  
+  
+- 二、資料科學特徵工程技術
   - [Day17 特徵工程簡介](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_017_HW.ipynb)
   - [Day18 特徵的類型](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_018_HW.ipynb)
   - [Day19 補缺失值與標準化](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_019_HW.ipynb)
@@ -54,7 +58,7 @@ Github這邊主要我就是放上每日的作業，詳細的心得之後會再�
   - [Day28 特徵選擇](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_028_HW.ipynb)
   - [Day29 特徵評估](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_029_HW.ipynb)
   - [Day30 分類型特徵優化（葉編碼）](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_030_HW.ipynb)
-- 機器學習基礎模型建立
+- 三、機器學習基礎模型建立
   - [Day31 機器學習概論](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_031_HW.ipynb)
   - [Day32 機器學習的流程與步驟](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_032_HW.ipynb)
   - [Day33 機器如何學習？](https://github.com/tobby168/100Day-ML-Marathon/blob/master/Day_033_HW.ipynb)
